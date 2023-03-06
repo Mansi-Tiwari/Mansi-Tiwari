@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mansi-Tiwari/Mansi-Tiwari/main/intro.gif"  width=90% height='360px'/>
+  <img src="https://raw.githubusercontent.com/Mansi-Tiwari/Mansi-Tiwari/main/intro.gif"  width=90% height=20%/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansi-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="mansi-tiwari" /> </p>
