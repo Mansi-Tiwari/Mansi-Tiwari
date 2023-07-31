@@ -9,7 +9,7 @@ Software Developer with experience in building applications with JavaScript, Rea
 </p>
 <br/>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **mansit8788@gamil.com**
 
